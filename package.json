@@ -12,8 +12,14 @@
     "test:watch": "nwb test-react --server"
   },
   "dependencies": {
+    "firebase": "^4.13.1",
+    "firebase-tools": "^3.18.4",
+    "lodash": "^4.17.10",
+    "mobx": "^5.7.0",
+    "mobx-state-tree": "^3.9.0",
     "react": "^16.6.3",
-    "react-dom": "^16.6.3"
+    "react-dom": "^16.6.3",
+    "react-router-dom": "4.2.2"
   },
   "devDependencies": {
     "nwb": "0.21.x"
